@@ -40,6 +40,7 @@
         .csSubHead{
             font-size:18px;
             font-weight: bold;
+            a{color:#6C63FF;}
         }
     }
    
