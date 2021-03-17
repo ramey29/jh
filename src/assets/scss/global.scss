@@ -27,6 +27,7 @@ select {
 img{width:100%;}
 .fLft{float:left;}
 .w100{width:100%;}
+.ac{text-align: center;}
 @mixin clearfix() {
     &::after {
       display: block;
